@@ -5,7 +5,7 @@
       "username": "Doraemon",
       "email": "doraemon@example.com",
       "desc": "Chú mèo máy đến từ thế kỷ 22, luôn sử dụng bảo bối để giúp đỡ Nobita trong những tình huống khó khăn.",
-      "avatar_url": "https://i.pravatar.cc/300?img=11",
+      "avatar_url": "https://github.com/MonUkou/PhotoApp/blob/main/app/src/main/res/drawable/Doraemon.jpg",
       "hobby": "Ăn bánh rán, sử dụng bảo bối, giúp đỡ bạn bè"
     },
     {
@@ -13,7 +13,7 @@
       "username": "Nobita",
       "email": "nobita@example.com",
       "desc": "Một cậu bé hậu đậu nhưng tốt bụng, thường gặp nhiều rắc rối và luôn nhờ Doraemon giúp đỡ.",
-      "avatar_url": "https://i.pravatar.cc/300?img=12",
+      "avatar_url": "https://github.com/MonUkou/PhotoApp/blob/main/app/src/main/res/drawable/Nobita.jpg",
       "hobby": "Chơi game, ngủ, chơi với Doraemon"
     },
     {
@@ -21,7 +21,7 @@
       "username": "Shizuka",
       "email": "shizuka@example.com",
       "desc": "Một cô bé thông minh, dịu dàng và luôn quan tâm đến bạn bè.",
-      "avatar_url": "https://i.pravatar.cc/300?img=13",
+      "avatar_url": "https://github.com/MonUkou/PhotoApp/blob/main/app/src/main/res/drawable/Shizuka.jpg",
       "hobby": "Chơi violin, đọc sách, tắm"
     },
     {
@@ -29,7 +29,7 @@
       "username": "Jaian",
       "email": "jaian@example.com",
       "desc": "Cậu bé mạnh mẽ trong nhóm, thường thể hiện vai trò thủ lĩnh và rất yêu thích ca hát.",
-      "avatar_url": "https://i.pravatar.cc/300?img=14",
+      "avatar_url": "https://github.com/MonUkou/PhotoApp/blob/main/app/src/main/res/drawable/Jaian.jpg",
       "hobby": "Ca hát, chơi bóng chày, sưu tầm đồ chơi"
     },
     {
@@ -37,7 +37,7 @@
       "username": "Suneo",
       "email": "suneo@example.com",
       "desc": "Một cậu bé thông minh, thích khoe những món đồ mới và thường đi chơi cùng Jaian.",
-      "avatar_url": "https://i.pravatar.cc/300?img=15",
+      "avatar_url": "https://github.com/MonUkou/PhotoApp/blob/main/app/src/main/res/drawable/Suneo.jpg",
       "hobby": "Sưu tầm đồ chơi, chụp ảnh, chơi điện tử"
     },
     {
@@ -45,7 +45,7 @@
       "username": "Dekisugi",
       "email": "dekisugi@example.com",
       "desc": "Một học sinh xuất sắc, thông minh và chăm chỉ, thường được bạn bè nhờ giúp đỡ trong học tập.",
-      "avatar_url": "https://i.pravatar.cc/300?img=16",
+      "avatar_url": "https://github.com/MonUkou/PhotoApp/blob/main/app/src/main/res/drawable/Dekisugi.jpg",
       "hobby": "Đọc sách, học tập, nghiên cứu"
     },
     {
@@ -53,7 +53,7 @@
       "username": "Dorami",
       "email": "dorami@example.com",
       "desc": "Em gái của Doraemon, thông minh, đáng yêu và thường xuất hiện để giúp đỡ khi Doraemon gặp khó khăn.",
-      "avatar_url": "https://i.pravatar.cc/300?img=17",
+      "avatar_url": "https://github.com/MonUkou/PhotoApp/blob/main/app/src/main/res/drawable/Dorami.jpg",
       "hobby": "Ăn bánh ngọt, giúp đỡ mọi người, sử dụng bảo bối"
     },
     {
@@ -61,7 +61,7 @@
       "username": "Sewashi",
       "email": "sewashi@example.com",
       "desc": "Hậu duệ của Nobita ở thế kỷ 22, là người đưa Doraemon về quá khứ để giúp Nobita thay đổi tương lai.",
-      "avatar_url": "https://i.pravatar.cc/300?img=18",
+      "avatar_url": "https://github.com/MonUkou/PhotoApp/blob/main/app/src/main/res/drawable/Sewashi.jpg",
       "hobby": "Khoa học, công nghệ, chăm sóc Doraemon"
     }
   ]
