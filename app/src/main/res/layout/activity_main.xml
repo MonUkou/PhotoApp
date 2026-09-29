@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#F5F7FA">
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -13,11 +14,13 @@
         android:textColor="#172B4D"
         android:textSize="24sp"
         android:textStyle="bold"/>
+
     <ProgressBar
         android:id="@+id/progress_users"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"/>
+
     <TextView
         android:id="@+id/tv_message"
         android:layout_width="match_parent"
@@ -25,14 +28,17 @@
         android:padding="16dp"
         android:textColor="#172B4D"
         android:visibility="gone"/>
+
     <GridView
         android:id="@+id/gridview"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:numColumns="3"
-        android:horizontalSpacing="8dp"
+        android:numColumns="2"
+        android:horizontalSpacing="12dp"
+        android:verticalSpacing="16dp"
         android:stretchMode="columnWidth"
-        android:padding="16dp"
-        android:verticalSpacing="12dp"/>
+        android:padding="12dp"
+        android:gravity="center"/>
+
 </LinearLayout>
