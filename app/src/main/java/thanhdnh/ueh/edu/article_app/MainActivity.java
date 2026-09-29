@@ -13,7 +13,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
   private static final String USERS_URL =
-      "https://raw.githubusercontent.com/nguyentankhiem1610/Lab_8_mobile/refs/heads/main/users.json";
+      "https://raw.githubusercontent.com/MonUkou/PhotoApp/refs/heads/main/user.json";
   public GridView gridview;
   private UserData userData;
 
