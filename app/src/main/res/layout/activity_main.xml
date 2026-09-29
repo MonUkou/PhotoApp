@@ -1,42 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#FFFFFF">
-
-    <!-- HOME -->
-
+    android:background="#F5F7FA">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="16dp"
-        android:text="HOME"
-        android:textAlignment="center"
-        android:textColor="#222222"
-        android:textSize="26sp"
-        android:textStyle="bold" />
-
-
-    <!-- DANH SÁCH USER -->
-
+        android:text="Home"
+        android:textColor="#172B4D"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+    <ProgressBar
+        android:id="@+id/progress_users"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"/>
+    <TextView
+        android:id="@+id/tv_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textColor="#172B4D"
+        android:visibility="gone"/>
     <GridView
-        android:id="@+id/gridUsers"
+        android:id="@+id/gridview"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-
-        android:numColumns="2"
-
-        android:horizontalSpacing="12dp"
-        android:verticalSpacing="18dp"
-
-        android:padding="12dp"
-
+        android:numColumns="3"
+        android:horizontalSpacing="8dp"
         android:stretchMode="columnWidth"
-
-        android:gravity="center" />
-
+        android:padding="16dp"
+        android:verticalSpacing="12dp"/>
 </LinearLayout>
